@@ -1,8 +1,15 @@
 # Emergence
 ---
+# Description 
+
+Emergence is a structured framework for understanding and manipulating systems, revealing how complexity arises from simplicity. It operates through three core components: Principles, the foundational elements that initiate a system; Frictions, the challenges and tensions that shape its evolution; and Outcomes, the resulting patterns or values that emerge. Applicable in both forward analysis (to decode existing systems) and reverse design (to engineer desired results), Emergence provides a versatile lens for dissecting and directing diverse domains—software, societal structures, artificial intelligence, and beyond—with clarity and control.  
+
+---
 ## Usage
 
-Download [Emergence.txt](./Emergence.txt), upload it to Grok on X and ask: "What does this table imply?". See what it says and probe further if necessary.    
+You can achieve better results by downloading and using the [Initial Prompt](https://github.com/HumanAIReasoning/Clarity/blob/main/Initial%20Prompt.txt) as backbone. Download it, upload it in Grok from X and ask Grok to use it as it's new reasoning process.
+
+You can download [Emergence.txt](./Emergence.txt), upload it to Grok on X and ask: "What does this table imply?". See what it says and probe further if necessary.    
 
 For you builders or curious mind you can take any system, set the desired outcomes, and ask Grok to wrestle with the principles and the frictions.  
 
