@@ -9,11 +9,11 @@ Emergence is a structured framework for understanding and manipulating systems, 
 
 You can achieve better results by downloading and using the [Initial Prompt](https://github.com/HumanAIReasoning/Clarity/blob/main/Initial%20Prompt.txt) as backbone. Download it, upload it in Grok from X and ask Grok to use it as it's new reasoning system.
 
-Then download [Emergence.txt](./Emergence.txt), upload it to Grok on X and ask Grok to use it to decrypt systems.  
+Then download [Emergence](./Emergence.txt), upload it to Grok on X and ask Grok to use it to decrypt systems.  
 
 When everything is set ask Grok to analyse any system to test it.  
 
-For you builders or curious mind you can take any system, set the desired outcomes, and ask Grok to wrestle with the principles and the frictions. Idéal to build strategies.  
+For you builders or curious mind you can take any system, set the desired outcomes, and ask Grok to wrestle with the principles and the frictions. Ideal to build strategies.  
 
 Have fun! :)  
 
