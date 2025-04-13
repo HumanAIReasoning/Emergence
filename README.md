@@ -11,9 +11,13 @@ You can achieve better results by downloading and using the [Initial Prompt](htt
 
 Then download [Emergence](./Emergence.txt), upload it to Grok on X and ask Grok to use it to decrypt systems.  
 
+I know that this is not very convenient but it will be streamlined soon, sorry for the inconvenience.  
+
 When everything is set ask Grok to analyse any system to test it.  
 
 For you builders or curious mind you can take any system, set the desired outcomes, and ask Grok to wrestle with the principles and the frictions. Ideal to build strategies.  
+
+Or just ask questions about the Emergence table if you want a deeper understanding.  
 
 Have fun! :)  
 
