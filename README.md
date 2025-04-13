@@ -23,7 +23,13 @@ When everything is set ask Grok to analyse any system to test it.
 
 For you builders or curious mind you can take any system, set the desired outcomes, and ask Grok to wrestle with the principles and the frictions. Ideal to build strategies.  
 
-Or just ask questions about the Emergence table if you want a deeper understanding.  
+Example:  
+I'm managing a small team, what can I do to make my interventions count ?  
+
+Or just ask questions about the Emergence table if you want a deeper understanding. 
+
+Example:  
+What is the Emergence table trying to demonstrate ?  
 
 Have fun! :)  
 
