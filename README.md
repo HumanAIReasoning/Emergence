@@ -7,7 +7,15 @@ Emergence is a structured framework for understanding and manipulating systems, 
 ---
 ## Usage
 
-You can achieve better results by downloading and using the [Initial Prompt](https://github.com/HumanAIReasoning/Clarity/blob/main/Initial%20Prompt.txt) as backbone. Download it, upload it in Grok from X and ask Grok to use it as it's new reasoning system.  
+### Standalone 
+
+The Emergence framework is a self contained tool to understand and manipulate systems.  
+
+You can use it to simplify the decryption of complex systems and map strategies with fast iterations.
+
+### With AI
+
+To maximize the use of the Emergence framework download the [Initial Prompt](https://github.com/HumanAIReasoning/Clarity/blob/main/Initial%20Prompt.txt) as backbone. Download it, upload it in Grok from X and ask Grok to use it as it's new reasoning system.  
 
 Example:  
 I want you to use the Initial Prompt file as your new reasoning system.  
