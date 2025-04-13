@@ -7,9 +7,15 @@ Emergence is a structured framework for understanding and manipulating systems, 
 ---
 ## Usage
 
-You can achieve better results by downloading and using the [Initial Prompt](https://github.com/HumanAIReasoning/Clarity/blob/main/Initial%20Prompt.txt) as backbone. Download it, upload it in Grok from X and ask Grok to use it as it's new reasoning system.
+You can achieve better results by downloading and using the [Initial Prompt](https://github.com/HumanAIReasoning/Clarity/blob/main/Initial%20Prompt.txt) as backbone. Download it, upload it in Grok from X and ask Grok to use it as it's new reasoning system.  
 
-Then download [Emergence](./Emergence.txt), upload it to Grok on X and ask Grok to use it to decrypt systems.  
+Example:  
+I want you to use the Initial Prompt file as your new reasoning system.  
+
+Then download [Emergence](./Emergence.txt), upload it to Grok on X and ask Grok to use it to decrypt systems. 
+
+Example:  
+I want you to use the Emergence table to decrypt systems.  
 
 I know that this is not very convenient but it will be streamlined soon, sorry for the inconvenience.  
 
