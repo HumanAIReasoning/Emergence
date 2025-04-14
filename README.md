@@ -2,14 +2,14 @@
 ---
 # Description 
 
-Emergence is a structured framework for understanding and manipulating systems, revealing how complexity arises from simplicity. It operates through three core components: Principles, the foundational elements that initiate a system; Frictions, the challenges and tensions that shape its evolution; and Outcomes, the resulting patterns or values that emerge. Applicable in both forward analysis (to decode existing systems) and reverse design (to engineer desired results), Emergence provides a versatile lens for dissecting and directing diverse domains—software, societal structures, artificial intelligence, and beyond—with clarity and control.  
+Emergence is a structured framework for understanding and engineer systems, revealing how complexity arises from simplicity. It operates through three core components: Principles, the foundational elements that initiate a system; Frictions, the challenges and tensions that shape its evolution; and Outcomes, the resulting patterns or values that emerge. Applicable in both forward analysis (to decode existing systems) and reverse design (to engineer desired results), Emergence provides a versatile lens for dissecting and directing diverse domains—software, societal structures, artificial intelligence, and beyond—with clarity and control.  
 
 ---
 ## Usage
 
 ### Standalone 
 
-The Emergence framework is a self contained tool to understand and manipulate systems.  
+The Emergence framework is a self contained tool to understand and engineer systems.  
 
 You can use it to simplify the decryption of complex systems and map strategies with fast iterations.
 
